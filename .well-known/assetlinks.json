@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.thekunwar12.twa",
+    "sha256_cert_fingerprints": ["D0:FF:CB:4D:6E:9A:A5:41:51:3C:74:FA:BF:13:E2:DF:8E:0C:0F:44:36:B7:71:8F:2D:0F:BA:EC:F2:20:6B:7F"]
+  }
+}]
